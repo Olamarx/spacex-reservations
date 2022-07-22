@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Netlify](https://lively-licorice-d3ec7e.netlify.app/)
+[Netlify](https://62da7f1e025e9000bfe8b8ae--majestic-vacherin-1fcde7.netlify.app/)
 
 
 ## Getting Started
