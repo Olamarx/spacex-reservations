@@ -41,6 +41,14 @@ To run a local copy of this project follow these simple steps.
 
 
 ## Authors
+
+👤 **Owoeye Olaoluwa (Olamarx)**
+
+- GitHub: [@githubhandle](https://github.com/Olamarx)
+- Twitter: [@twitterhandle](https://twitter.com/Owoeye0laoluwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
+- Facebook: [Facebook](https://web.facebook.com/olaoluwa.owoeye.39)
+
 👤 **Tom Milanesi**
 
 - GitHub: [@TomMilanesi](https://github.com/KaskMIL)
@@ -53,13 +61,6 @@ To run a local copy of this project follow these simple steps.
 - Twitter: [@BrendaWihogora](https://twitter.com/BrendaWihogora)
 - LinkedIn: [BrendaWihogora](https://linkedin.com/in/BrendaWihogora/)
 
-
-👤 **Owoeye Olaoluwa (Olamarx)**
-
-- GitHub: [@githubhandle](https://github.com/Olamarx)
-- Twitter: [@twitterhandle](https://twitter.com/Owoeye0laoluwa)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
-- Facebook: [Facebook](https://web.facebook.com/olaoluwa.owoeye.39)
 
 ## 🤝 Contributing
 
