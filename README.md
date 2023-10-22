@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Netlify](https://62da7f1e025e9000bfe8b8ae--majestic-vacherin-1fcde7.netlify.app/)
+[Netlify](https://space-reservation.netlify.app)
 
 
 ## Getting Started
